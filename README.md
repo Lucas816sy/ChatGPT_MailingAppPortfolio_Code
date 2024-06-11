@@ -6,5 +6,7 @@
 <br>
 https://github.com/Lucas816sy/ChatGPT_MailingAppPortfolio_exe
 <br>
+## メール送信機能を有効化する方法
+
 "送信_Click"関数内の変数PWDにSMTPパスワード、smtpClient.Hostの部分にSMTPサーバーのホスト名を設定してください。
 その後、form1のデザイナーで送信ボタンのEnabledをFlaseからTrueに変更してください。
